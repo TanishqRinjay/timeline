@@ -7,3 +7,4 @@ https://github.com/TanishqRinjay/timeline/blob/main/timeline.md
 | `task3_log.md`       | example-repo           | Fixed bugs                                | 1 hour ago             |
 | `task2_log.md` | 100xDev | Commited @4am | less than a minute ago |
 | `task3_log.md` | 100xDev | new commit 2 | less than a minute ago |
+| `task1_log.md` | repo1 | new commit | less than a minute ago |
